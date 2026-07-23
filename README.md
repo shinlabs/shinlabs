@@ -1,16 +1,25 @@
-## Hi there 👋
+# Matatini Reia
 
-<!--
-**shinlabs/shinlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer with experience in CRM platforms,
+AI applications, cybersecurity products and distributed systems.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted software development and agent supervision
+- TypeScript / Node.js and Java / Spring Boot
+- CRM and Customer Care integrations
+- Secure and maintainable distributed systems
+
+## Featured projects
+
+### AI-Assisted Godot Project
+A personal sandbox for studying supervised development with Claude Code,
+architecture review, scoped permissions and evidence-based documentation.
+
+### Hospital Queue — Domain Modeling
+A Java/Spring project demonstrating pragmatic DDD and tested business rules.
+
+## Background
+
+Former mathematics teacher, now software engineer.
+I particularly value analytical reasoning, pedagogy and explicit technical trade-offs.
