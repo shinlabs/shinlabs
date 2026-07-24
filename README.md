@@ -16,9 +16,6 @@ AI applications, cybersecurity products and distributed systems.
 A personal sandbox for studying supervised development with Claude Code,
 architecture review, scoped permissions and evidence-based documentation.
 
-### Hospital Queue — Domain Modeling
-A Java/Spring project demonstrating pragmatic DDD and tested business rules.
-
 ## Background
 
 Former mathematics teacher, now software engineer.
